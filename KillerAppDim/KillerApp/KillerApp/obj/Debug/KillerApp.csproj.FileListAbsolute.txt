@@ -1,0 +1,34 @@
+C:\Users\dimit\Documents\Visual Studio 2015\fun12\KillerApp\KillerApp\bin\Debug\KillerApp.exe.config
+C:\Users\dimit\Documents\Visual Studio 2015\fun12\KillerApp\KillerApp\bin\Debug\KillerApp.exe
+C:\Users\dimit\Documents\Visual Studio 2015\fun12\KillerApp\KillerApp\bin\Debug\KillerApp.pdb
+C:\Users\dimit\Documents\Visual Studio 2015\fun12\KillerApp\KillerApp\obj\Debug\KillerApp.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Documents\Visual Studio 2015\fun12\KillerApp\KillerApp\obj\Debug\KillerApp.Form1.resources
+C:\Users\dimit\Documents\Visual Studio 2015\fun12\KillerApp\KillerApp\obj\Debug\KillerApp.Properties.Resources.resources
+C:\Users\dimit\Documents\Visual Studio 2015\fun12\KillerApp\KillerApp\obj\Debug\KillerApp.csproj.GenerateResource.Cache
+C:\Users\dimit\Documents\Visual Studio 2015\fun12\KillerApp\KillerApp\obj\Debug\KillerApp.exe
+C:\Users\dimit\Documents\Visual Studio 2015\fun12\KillerApp\KillerApp\obj\Debug\KillerApp.pdb
+C:\poep\KillerApp\KillerApp\bin\Debug\KillerApp.exe.config
+C:\poep\KillerApp\KillerApp\obj\Debug\KillerApp.exe
+C:\poep\KillerApp\KillerApp\obj\Debug\KillerApp.pdb
+C:\poep\KillerApp\KillerApp\bin\Debug\KillerApp.exe
+C:\poep\KillerApp\KillerApp\bin\Debug\KillerApp.pdb
+C:\poep\KillerApp\KillerApp\obj\Debug\KillerApp.csprojResolveAssemblyReference.cache
+C:\poep\KillerApp\KillerApp\obj\Debug\KillerApp.Form1.resources
+C:\poep\KillerApp\KillerApp\obj\Debug\KillerApp.Properties.Resources.resources
+C:\poep\KillerApp\KillerApp\obj\Debug\KillerApp.csproj.GenerateResource.Cache
+C:\poep\KillerApp\KillerApp\obj\Debug\KillerApp.Form2.resources
+C:\poep\KillerApp\KillerApp\obj\Debug\KillerApp.Review.resources
+C:\Nieuwe map\KillerApp\KillerApp\bin\Debug\KillerApp.exe.config
+C:\Nieuwe map\KillerApp\KillerApp\obj\Debug\KillerApp.exe
+C:\Nieuwe map\KillerApp\KillerApp\obj\Debug\KillerApp.pdb
+C:\KillerAppDim\KillerApp\KillerApp\bin\Debug\KillerApp.exe.config
+C:\KillerAppDim\KillerApp\KillerApp\bin\Debug\KillerApp.exe
+C:\KillerAppDim\KillerApp\KillerApp\bin\Debug\KillerApp.pdb
+C:\KillerAppDim\KillerApp\KillerApp\obj\Debug\KillerApp.csprojResolveAssemblyReference.cache
+C:\KillerAppDim\KillerApp\KillerApp\obj\Debug\KillerApp.Form1.resources
+C:\KillerAppDim\KillerApp\KillerApp\obj\Debug\KillerApp.Form2.resources
+C:\KillerAppDim\KillerApp\KillerApp\obj\Debug\KillerApp.Properties.Resources.resources
+C:\KillerAppDim\KillerApp\KillerApp\obj\Debug\KillerApp.Review.resources
+C:\KillerAppDim\KillerApp\KillerApp\obj\Debug\KillerApp.csproj.GenerateResource.Cache
+C:\KillerAppDim\KillerApp\KillerApp\obj\Debug\KillerApp.exe
+C:\KillerAppDim\KillerApp\KillerApp\obj\Debug\KillerApp.pdb
